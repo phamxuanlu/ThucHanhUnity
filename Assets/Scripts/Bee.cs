@@ -11,6 +11,6 @@ public class Bee : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        //transform.position = new Vector3(1, 1);
 	}
 }
