@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GameObjectScene.unity
+- path: Assets/Scenes/VectorScene.unity
   isLoaded: 1
   isActive: 1

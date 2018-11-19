@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\Canvas.cs" />
     <Compile Include="Assets\Scripts\CubeScript.cs" />
+    <Compile Include="Assets\Scripts\LearningVector.cs" />
     <Compile Include="Assets\Scripts\Trigger.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/PROJECTS/GAMES/ThucHanhUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
