@@ -66,7 +66,7 @@
     <Compile Include="Assets\Scripts\Canvas.cs" />
     <Compile Include="Assets\Scripts\CubeScript.cs" />
     <Compile Include="Assets\Scripts\LearningVector.cs" />
-    <Compile Include="Assets\Scripts\Shooter.cs" />
+    <Compile Include="Assets\Scripts\MyShooter.cs" />
     <Compile Include="Assets\Scripts\Trigger.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/pham.xuan.lu/LUPX/LABS/Repo/CameraUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
