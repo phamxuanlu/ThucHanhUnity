@@ -115,12 +115,14 @@ public class FreeParallax : MonoBehaviour
         {
             pos.x -= xOffset;
             obj.transform.position = pos;
+            if (obj.name == "goldchest(z1)") obj.SendMessage("CloseBox");
         }
         float yOffset = r.bounds.min.y - obj.transform.position.y;
         if (yOffset != 0)
         {
             pos.y -= yOffset;
             obj.transform.position = pos;
+            if (obj.name == "goldchest(z1)") obj.SendMessage("CloseBox");
         }
     }
 

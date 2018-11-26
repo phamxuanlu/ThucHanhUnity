@@ -69,6 +69,10 @@
     <Compile Include="Assets\Scripts\CubeScript.cs" />
     <Compile Include="Assets\Scripts\LearningVector.cs" />
     <Compile Include="Assets\Scripts\MyShooter.cs" />
+    <Compile Include="Assets\Scripts\Parallax\Collectable2D.cs" />
+    <Compile Include="Assets\Scripts\Parallax\GoldChest.cs" />
+    <Compile Include="Assets\Scripts\Parallax\Platformer2DCustomController.cs" />
+    <Compile Include="Assets\Scripts\Parallax\Restarter.cs" />
     <Compile Include="Assets\Scripts\Trigger.cs" />
     <None Include="Assets\FreeParallax\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
