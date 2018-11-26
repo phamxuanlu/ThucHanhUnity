@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FreeParallax\Scripts\FreeParallax.cs" />
+    <Compile Include="Assets\FreeParallax\Scripts\FreeParallaxDemo.cs" />
     <Compile Include="Assets\Scripts\Bee.cs" />
     <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\Canvas.cs" />
@@ -68,6 +70,7 @@
     <Compile Include="Assets\Scripts\LearningVector.cs" />
     <Compile Include="Assets\Scripts\MyShooter.cs" />
     <Compile Include="Assets\Scripts\Trigger.cs" />
+    <None Include="Assets\FreeParallax\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/pham.xuan.lu/LUPX/LABS/Repo/CameraUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
